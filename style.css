@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+
+}
+.main{
+    text-align: center;
+    position: relative;
+    top:150px;
+    right:50px;
+    
+}
+#search{
+    background-color: powderblue;
+    border-radius: 7px;
+    height: 25px;
+    width:80px;
+}
+input[type='text']{
+    width:150px;
+    height:25px;
+    border-radius: 5px;
+}
+#image{
+    position: relative;
+    left:500px;
+    top:250px;
+    border-radius:10px;
+
+
+    
+}
